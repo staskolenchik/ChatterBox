@@ -1,0 +1,16 @@
+# Maven
+target/
+out/
+log/
+
+# Intellij
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+#node,npm
+node_modules/
+dist/
+*.log
